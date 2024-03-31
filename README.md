@@ -5,9 +5,7 @@ Software developer with a decade of progressive experience. Some facts about me:
 - I am excited about the architecture design, making an impact, open source, decentralization, and studying new techs
 - I keep conquering Rust when I have free time and trying to stay up to date with the JS ecosystem
 - I lead a small [Tech Community](https://vovacha.notion.site/vovacha/Tech-Talks-Community-6a223ff0dc7c4518bf6110eedc853090) where we primarily discuss systems design topics
-- I watch [ThePrimeagen](https://www.youtube.com/@ThePrimeagen) - this Chad inspires me a lot
 - I raise the smartest and the cutest dog - [Ahri](https://www.instagram.com/ahristales/) the Border Collie
-- I get inspiration from the mountains, play Baldurs Gate 3, and read The Three-Body Problem by Cixin Liu
 - My first name is Volodymyr or Vladimir, and short versions are Vova or Vlad
 
 [Telegram me](https://telegram.me/vovacha)
@@ -16,7 +14,7 @@ Software developer with a decade of progressive experience. Some facts about me:
 - Languages: **Python**, JavaScript, **TypeScript**, some **Rust** and Java
 - API: **Django**, Flask, Sanic, SQLAlchemy, Express.js, Spring Boot, Hibernate
 - Web & Desktop: **React**, Tauri, Tailwind CSS, TanStack Query, Angular
-- Web3: **Substrate**, Polkadot, **Solana**, Ankr, Infura, Ethers.js
+- Web3: **Substrate**, Polkadot, Ankr, Infura, Ethers.js
 - Infra & DevOps: **K8s**, Docker Swarm, Terraform, CloudFormation, Portainer
 - Data Analytics & ETL: Hadoop, Spark, **Airflow**; **AWS**: Glue, Redshift, Athena, RDS, LakeFormation
   
@@ -29,6 +27,3 @@ Software developer with a decade of progressive experience. Some facts about me:
 ## Open-source contributions
 - [Gamedao-protocol](https://github.com/gamedaoco/gamedao-protocol) - Swiss startup. Organization management, fundraising, governance protocols (Rust, Substrate, Polkadot)
 - [Zero-network](https://github.com/playzero/zero-network) - Substrate-based blockchain (Rust, Substrate, Polkadot)
-
-## Recent pet projects
-- [Cortex](https://github.com/vovacha/cortex) - A desktop application serving as a manager for multiple wallets and automation for EVM-based chains (TypeScript, Rust, Tauri, React)
