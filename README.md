@@ -16,7 +16,7 @@ Software developer with a decade of progressive experience. Some facts about me:
 - Web & Desktop: React, Tauri, Tailwind CSS, TanStack Query, Angular
 - Web3: **Substrate**, Polkadot, Ankr, Infura, Ethers.js
 - Infra & DevOps: K8s, Docker Swarm, Terraform, CloudFormation, Portainer
-- Data Analytics & ETL: Hadoop, Spark, **Airflow**
+- Data & ETL: **Airflow**, PostgreSQL, Hadoop, Spark
 - AWS Data: **Glue**, Redshift, Athena, RDS, LakeFormation
 - AWS Serverless: **Lambda**, EventBridge, SNS, SQS, API Gateway
 
