@@ -17,7 +17,8 @@ Software developer with a decade of progressive experience. Some facts about me:
 - Web3: **Substrate**, Polkadot, Ankr, Infura, Ethers.js
 - Infra & DevOps: K8s, Docker Swarm, Terraform, CloudFormation, Portainer
 - Data Analytics & ETL: Hadoop, Spark, **Airflow**
-- AWS: Data (**Glue**, Redshift, Athena, RDS, LakeFormation), Serverless (**Lambda**, EventBridge, SNS, SQS, API GW)
+- AWS Data: **Glue**, Redshift, Athena, RDS, LakeFormation
+- AWS Serverless: **Lambda**, EventBridge, SNS, SQS, API Gateway
 
 ## Certificates
 - Cloud Native Computing Foundation: [Certified Kubernetes Application Developer](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/8c5e0272-2e2f-4c8b-862f-403dee2fd4a3-volodymyr-brazhnyk-8c42c73a-a600-4a96-be0e-9d3dc11da6d6-certificate.pdf)
