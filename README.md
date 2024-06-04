@@ -25,7 +25,3 @@ Software developer with a decade of progressive experience. Some facts about me:
 - AWS Certified Big Data - Specialty (W2XSKNPCMEQ41H3L)
 - AWS Certified Solutions Architect - Associate (3DNNM01KN1B1Q7SQ)
 - Oracle Certified Professional: [Java SE 17 Developer](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FA07B7C0D0A924EBA90E0961061631E25489ED6FCB48A3DFAD2319E7C60CB26E)
-
-## Open-source contributions
-- [Gamedao-protocol](https://github.com/gamedaoco/gamedao-protocol) - Swiss startup. Organization management, fundraising, governance protocols (Rust, Substrate, Polkadot)
-- [Zero-network](https://github.com/playzero/zero-network) - Substrate-based blockchain (Rust, Substrate, Polkadot)
