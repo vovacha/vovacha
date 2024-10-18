@@ -10,11 +10,11 @@ Software developer, currently exploring security domain. Some facts about me:
 [Telegram me](https://telegram.me/vovacha)
 
 ## Techs
-- **Languages**: Python, TypeScript, JavaScript, Rust, Java
+- **Languages**: TypeScript, JavaScript, Python, Rust, Java
 - **Blockchain & Web3**: Substrate, Polkadot, Ethers.js, Web3 protocols
 - **Security & Cryptography**: Currently preparing for the CISSP exam
-- **Web & Desktop**: React, Tauri, Tailwind CSS, Angular
-- **Infra & DevOps**: Kubernetes, Terraform, Docker Swarm, Portainer
+- **Web & Desktop**: Python web frameworks, Nest, Tauri, React, Angular
+- **Infra & DevOps**: Kubernetes, Docker Swarm, Terraform, Portainer
 - **Data & ETL**: Airflow, PostgreSQL, Spark, Glue, Redshift, RDS
 - **Cloud**: AWS
 
