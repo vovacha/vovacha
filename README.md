@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/vovacha/vovacha/master/banner.png" alt="Banner about Volodymyr Brazhnyk">
 
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hey! I'm Vlad  <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
-Software developer, currently exploring security domain. Some facts about me:
+Some facts about me:
 - Passionate about architecture, security, open-source, and decentralized technologies
 - Exploring security and distributed systems; keeping up with Rust when I can
 - Proud owner of the smartest dog, [Ahri](https://www.instagram.com/ahristales/) the Border Collie
