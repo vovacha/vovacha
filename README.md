@@ -7,8 +7,6 @@ Some facts about me:
 - Proud owner of the smartest dog, [Ahri](https://www.instagram.com/ahristales/) the Border Collie
 - First name: Volodymyr (Vova or Vlad for short)
 
-[Telegram me](https://telegram.me/vovacha)
-
 ## Techs
 - **Languages**: TypeScript, JavaScript, Python, Rust, Java
 - **Blockchain & Web3**: Substrate, Polkadot, Ethers.js, Web3 protocols
