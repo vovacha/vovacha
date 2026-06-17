@@ -7,10 +7,10 @@ Full first name: Volodymyr — Vova or **Vlad for short**.
 ---
 
 - **Backend engineering**: TypeScript, Python
-- **Cloud**: AWS, some GCP
-- **Platform / infrastructure**: Kubernetes, ArgoCD, Docker, Terraform  
-- **Security**: growing focus on security, including offensive security and security-minded engineering
 - **Rust**: working knowledge, actively improving
+- **Security**: growing focus on security, including offensive security and security-minded engineering
+- **Cloud**: AWS, some GCP
+- **Infrastructure**: Kubernetes, ArgoCD, Docker, Terraform  
 
 Additional experience:
 
